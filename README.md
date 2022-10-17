@@ -25,7 +25,8 @@ Web Development skills (and also maybe play some video games).
 ## My skills 📜
 
 ### Data Structures and Algorithms
-- All basic DSA
+- All basic Data Structures
+- Advanced algorithms (Graph algos, DP, etc)
 - Advanced C++
   
 ### Web technologies
