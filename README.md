@@ -1,0 +1,58 @@
+# Hi everyone :wave:
+
+I am a highly motivated and diligent 3rd year student pursuing a bachelor's degree in Computer science and engineering with specialization in business systems. 
+I am seeking to utilize my broad educational background with great analytical, technical, financial, and programming skills to thrive as an entry level software 
+engineer and hence propel my career to another level.
+
+## Quick overview
+* GitHub stats:  
+<a href="https://github.com/rohit02rsk/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rohit02rsk&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
+
+
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+### What I do
+
+I mostly work on DSA and LeetCode. In my free time, I like to work towards my 
+Web Development skills (and also maybe play some video games).
+
+## My skills 📜
+
+### Data Structures and Algorithms
+- All basic DSA
+- Advanced C++
+  
+### Web technologies
+
+- HTML5
+- CSS and Bootstrap
+- JavaScript
+- NodeJS
+
+
+### Application Development
+
+- Flutter
+- Dart
+
+### Productivity utilities
+
+- MS Word
+- MS Excel
+- MS Powerpoint
+
+### Languages 🌐
+
+| Language      | Proficiency            |
+| ------------- | ---------------------- |
+| English       | Bilingual Proficiency  |                    
+| Hindi         | Bilingual Proficiency  |
+| Tamil         | Native language        |
+
+</details>
