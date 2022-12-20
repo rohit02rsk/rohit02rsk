@@ -34,10 +34,10 @@ Web Development skills (and also maybe play some video games).
 - HTML5
 - CSS and Bootstrap
 - JavaScript
-- NodeJS
+- NodeJS, Express, EJS
+- MongoDB
 
-
-### Application Development
+### Mobile Application Development
 
 - Flutter
 - Dart
