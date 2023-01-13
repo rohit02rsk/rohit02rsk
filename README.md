@@ -31,16 +31,13 @@ Web Development skills (and also maybe play some video games).
   
 ### Web technologies
 
-- HTML5
-- CSS and Bootstrap
-- JavaScript
-- NodeJS, Express, EJS
-- MongoDB
+- MERN stack
+- TypeScript
 
 ### Mobile Application Development
 
 - Flutter
-- Dart
+- Trying out React Native
 
 ### Productivity utilities
 
