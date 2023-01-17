@@ -1,7 +1,7 @@
 # Hi everyone :wave:
 
 I am a highly motivated and diligent 3rd year student pursuing a bachelor's degree in Computer science and engineering with specialization in business systems. 
-I am seeking to utilize my broad educational background with great analytical, technical, financial, and programming skills to thrive as an entry level software 
+I am seeking to utilize my broad educational background with great analytical, technical, and programming skills to thrive as an entry level software 
 engineer and hence propel my career to another level.
 
 ## Quick overview
